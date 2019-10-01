@@ -29,7 +29,7 @@
     "geometricError": 100,
     "refine": "REPLACE",
     "content": {
-      "url": "dragon_low.b3dm"
+      "uri": "dragon_low.b3dm"
     },
     "children": [
       {
@@ -51,7 +51,7 @@
         },
         "geometricError": 10,
         "content": {
-          "url": "dragon_medium.b3dm"
+          "uri": "dragon_medium.b3dm"
         },
         "children": [
           {
@@ -73,7 +73,7 @@
             },
             "geometricError": 0,
             "content": {
-              "url": "dragon_high.b3dm"
+              "uri": "dragon_high.b3dm"
             }
           }
         ]
